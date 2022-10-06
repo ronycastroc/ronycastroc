@@ -33,13 +33,13 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=ronycastroc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ronycastroc&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronycastroc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="left">Stats</h2>
 
 ###
 
-<h4 align="left"></h4>
+![](https://github-readme-stats.vercel.app/api?username=ronycastroc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ronycastroc&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronycastroc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
