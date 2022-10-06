@@ -33,9 +33,10 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=ronycastroc&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ronycastroc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronycastroc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=ronycastroc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&username=ronycastroc" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -53,3 +54,5 @@
 </div>
 
 ###
+
+
