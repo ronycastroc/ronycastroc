@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -75,9 +75,12 @@
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ronycastroc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ronycastroc&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronycastroc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="flex-start">
+    <a href="https://github.com/ronycastroc">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ronycastroc&show_icons=true&theme=dark&hide">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronycastroc&theme=dark&hide&layout=compact">
+    <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=ronycastroc&theme=dark&hide_border=true">
+</div>
 
 
 
